@@ -1,5 +1,5 @@
 provider "google" {
-  project = "My First Project"
+  project = "Terraform Test Project"
   region  = "australia-southeast1"
   zone    = "australia-southeast1-a"
 }
